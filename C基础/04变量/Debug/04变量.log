@@ -1,0 +1,6 @@
+﻿  04demo.c
+C:\Users\Administrator\Desktop\C\C基础\04变量\04demo.c(15,13): warning C4047: “函数”:“const char *const ”与“char”的间接级别不同
+C:\Users\Administrator\Desktop\C\C基础\04变量\04demo.c(15,9): warning C4024: “printf”: 形参和实参 1 的类型不同
+C:\Users\Administrator\Desktop\C\C基础\04变量\04demo.c(12,1): warning C4047: “初始化”:“char”与“char [9]”的间接级别不同
+C:\Users\Administrator\Desktop\C\C基础\04变量\04demo.c(14,1): warning C4047: “初始化”:“char”与“char [14]”的间接级别不同
+  04变量.vcxproj -> C:\Users\Administrator\Desktop\C\C基础\Debug\04变量.exe
