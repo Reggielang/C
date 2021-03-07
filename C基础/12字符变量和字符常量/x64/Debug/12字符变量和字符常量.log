@@ -1,0 +1,11 @@
+﻿  12.c
+C:\Users\Administrator\Desktop\C\C基础\12字符变量和字符常量\12.c(8,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+C:\Users\Administrator\Desktop\C\C基础\12字符变量和字符常量\12.c(8,9): message : 请考虑在格式字符串中使用“%zd”
+C:\Users\Administrator\Desktop\C\C基础\12字符变量和字符常量\12.c(8,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“size_t”
+C:\Users\Administrator\Desktop\C\C基础\12字符变量和字符常量\12.c(8,9): message : 请考虑在格式字符串中使用“%zd”
+C:\Users\Administrator\Desktop\C\C基础\12字符变量和字符常量\12.c(13,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+C:\Users\Administrator\Desktop\C\C基础\12字符变量和字符常量\12.c(13,9): message : 请考虑在格式字符串中使用“%zd”
+C:\Users\Administrator\Desktop\C\C基础\12字符变量和字符常量\12.c(17,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+C:\Users\Administrator\Desktop\C\C基础\12字符变量和字符常量\12.c(17,9): message : 请考虑在格式字符串中使用“%zd”
+C:\Users\Administrator\Desktop\C\C基础\12字符变量和字符常量\12.c(10,1): warning C4047: “初始化”:“wchar_t”与“char [3]”的间接级别不同
+  12字符变量和字符常量.vcxproj -> C:\Users\Administrator\Desktop\C\C基础\x64\Debug\12字符变量和字符常量.exe

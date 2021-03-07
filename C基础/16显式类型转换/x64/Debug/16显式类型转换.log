@@ -1,0 +1,5 @@
+﻿  16.c
+C:\Users\Administrator\Desktop\C\C基础\16显式类型转换\16.c(14,1): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\C\C基础\16显式类型转换\16.c(27,1): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\C\C基础\16显式类型转换\16.c(29,1): warning C4305: “初始化”: 从“double”到“float”截断
+  16显式类型转换.vcxproj -> C:\Users\Administrator\Desktop\C\C基础\x64\Debug\16强制类型转换.exe

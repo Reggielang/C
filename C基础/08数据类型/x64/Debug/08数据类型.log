@@ -1,0 +1,4 @@
+﻿  08.c
+C:\Users\Administrator\Desktop\C\C基础\08数据类型\08.c(8,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“double”
+C:\Users\Administrator\Desktop\C\C基础\08数据类型\08.c(7,1): warning C4305: “初始化”: 从“double”到“float”截断
+  08数据类型.vcxproj -> C:\Users\Administrator\Desktop\C\C基础\x64\Debug\08数据类型.exe
