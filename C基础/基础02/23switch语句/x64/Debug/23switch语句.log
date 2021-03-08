@@ -1,0 +1,8 @@
+﻿  23.c
+c:\users\administrator\desktop\c\c基础\23switch语句\23.c(33): warning C4133: “函数”: 从“char [7]”到“LPCWSTR”的类型不兼容
+c:\users\administrator\desktop\c\c基础\23switch语句\23.c(12): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+c:\users\administrator\desktop\c\c基础\23switch语句\23.c(21): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+  23switch语句.vcxproj -> C:\Users\Administrator\Desktop\C\C基础\x64\Debug\23switch语句.exe
+  23switch语句.vcxproj -> C:\Users\Administrator\Desktop\C\C基础\x64\Debug\23switch语句.pdb (Partial PDB)

@@ -1,0 +1,3 @@
+﻿  42.c
+C:\Users\Administrator\Desktop\C\C基础\基础02\42指针基本语法\42.c(9,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+  42指针基本语法.vcxproj -> C:\Users\Administrator\Desktop\C\C基础\基础02\42指针基本语法\Debug\42指针基本语法.exe

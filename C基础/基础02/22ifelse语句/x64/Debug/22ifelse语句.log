@@ -1,0 +1,5 @@
+﻿  22.c
+c:\users\administrator\desktop\c\c基础\22ifelse语句\22.c(24): warning C4133: “函数”: 从“char [11]”到“LPCWSTR”的类型不兼容
+c:\users\administrator\desktop\c\c基础\22ifelse语句\22.c(11): warning C4477: “scanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“int”
+  22ifelse语句.vcxproj -> C:\Users\Administrator\Desktop\C\C基础\x64\Debug\22ifelse语句.exe
+  22ifelse语句.vcxproj -> C:\Users\Administrator\Desktop\C\C基础\x64\Debug\22ifelse语句.pdb (Partial PDB)
