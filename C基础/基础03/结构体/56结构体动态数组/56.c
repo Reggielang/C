@@ -13,7 +13,7 @@ typedef struct ModelFace
 int main()
 
 {
-	//
+	//¿‡±»
 	int a[3] = { 1,2,3 };
 	int *pa = (int *)malloc(3 * sizeof(int));
 	free(pa);
