@@ -1,0 +1,13 @@
+﻿  45.c
+c:\users\reggie\desktop\c\c基础\基础02\42指针基本语法\45数据类型大小练习\45.c(11): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“std::size_t”
+  c:\users\reggie\desktop\c\c基础\基础02\42指针基本语法\45数据类型大小练习\45.c(11): note: 请考虑在格式字符串中使用“%zd”
+c:\users\reggie\desktop\c\c基础\基础02\42指针基本语法\45数据类型大小练习\45.c(12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“std::size_t”
+  c:\users\reggie\desktop\c\c基础\基础02\42指针基本语法\45数据类型大小练习\45.c(12): note: 请考虑在格式字符串中使用“%zd”
+c:\users\reggie\desktop\c\c基础\基础02\42指针基本语法\45数据类型大小练习\45.c(13): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“std::size_t”
+  c:\users\reggie\desktop\c\c基础\基础02\42指针基本语法\45数据类型大小练习\45.c(13): note: 请考虑在格式字符串中使用“%zd”
+c:\users\reggie\desktop\c\c基础\基础02\42指针基本语法\45数据类型大小练习\45.c(14): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“std::size_t”
+  c:\users\reggie\desktop\c\c基础\基础02\42指针基本语法\45数据类型大小练习\45.c(14): note: 请考虑在格式字符串中使用“%zd”
+c:\users\reggie\desktop\c\c基础\基础02\42指针基本语法\45数据类型大小练习\45.c(15): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“std::size_t”
+  c:\users\reggie\desktop\c\c基础\基础02\42指针基本语法\45数据类型大小练习\45.c(15): note: 请考虑在格式字符串中使用“%zd”
+  45数据类型大小练习.vcxproj -> C:\Users\REGGIE\Desktop\C\C基础\基础02\42指针基本语法\x64\Debug\45数据类型大小练习.exe
+  45数据类型大小练习.vcxproj -> C:\Users\REGGIE\Desktop\C\C基础\基础02\42指针基本语法\x64\Debug\45数据类型大小练习.pdb (Partial PDB)

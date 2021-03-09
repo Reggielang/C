@@ -1,0 +1,13 @@
+﻿  43_1.c
+c:\users\reggie\desktop\c\c基础\基础02\43指针练习\43_1.c(16): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“std::size_t”
+  c:\users\reggie\desktop\c\c基础\基础02\43指针练习\43_1.c(16): note: 请考虑在格式字符串中使用“%zd”
+c:\users\reggie\desktop\c\c基础\基础02\43指针练习\43_1.c(17): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“std::size_t”
+  c:\users\reggie\desktop\c\c基础\基础02\43指针练习\43_1.c(17): note: 请考虑在格式字符串中使用“%zd”
+c:\users\reggie\desktop\c\c基础\基础02\43指针练习\43_1.c(18): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“std::size_t”
+  c:\users\reggie\desktop\c\c基础\基础02\43指针练习\43_1.c(18): note: 请考虑在格式字符串中使用“%zd”
+  43.c
+c:\users\reggie\desktop\c\c基础\基础02\43指针练习\43.c(8): warning C4133: “初始化”: 从“char *”到“int *”的类型不兼容
+  正在生成代码...
+c:\users\reggie\desktop\c\c基础\基础02\43指针练习\43.c(23): warning C4716: “main2”: 必须返回一个值
+  43指针练习.vcxproj -> C:\Users\REGGIE\Desktop\C\C基础\基础02\42指针基本语法\x64\Debug\43指针练习.exe
+  43指针练习.vcxproj -> C:\Users\REGGIE\Desktop\C\C基础\基础02\42指针基本语法\x64\Debug\43指针练习.pdb (Partial PDB)
