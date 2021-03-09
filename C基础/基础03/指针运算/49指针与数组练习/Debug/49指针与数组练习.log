@@ -1,0 +1,4 @@
+﻿  49.c
+c:\users\reggie\desktop\c\c基础\基础03\指针运算\49指针与数组练习\49.c(19): warning C4047: “初始化”:“char *”与“char (*)[5]”的间接级别不同
+  49指针与数组练习.vcxproj -> C:\Users\REGGIE\Desktop\C\C基础\基础03\指针运算\Debug\49指针与数组练习.exe
+  49指针与数组练习.vcxproj -> C:\Users\REGGIE\Desktop\C\C基础\基础03\指针运算\Debug\49指针与数组练习.pdb (Partial PDB)
