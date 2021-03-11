@@ -1,0 +1,5 @@
+﻿  04.cpp
+c:\users\reggie\desktop\cpp基础\数组\04.cpp(10): warning C4101: “cArray”: 未引用的局部变量
+c:\users\reggie\desktop\cpp基础\数组\04.cpp(11): warning C4101: “fArray”: 未引用的局部变量
+  数组.vcxproj -> C:\Users\REGGIE\Desktop\Cpp基础\x64\Debug\数组.exe
+  数组.vcxproj -> C:\Users\REGGIE\Desktop\Cpp基础\x64\Debug\数组.pdb (Partial PDB)
