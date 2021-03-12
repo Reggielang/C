@@ -33,7 +33,12 @@ int main()
 
 	cout << s.size() << endl;
 
+	//字符串比较 strcmp（输出0相等，或者1不等）
+	char strz[] = "sikiedu";
+	char strv[] = "sikiedu";
 
+	
+	cout << strcmp(strz, strv);
 
 	system("pause");
 	return 0;

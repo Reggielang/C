@@ -1,0 +1,7 @@
+﻿  练习2.cpp
+c:\users\reggie\desktop\cpp基础\练习2\练习2.cpp(27): warning C4838: 从“double”转换到“float”需要收缩转换
+c:\users\reggie\desktop\cpp基础\练习2\练习2.cpp(27): warning C4305: “初始化”: 从“double”到“float”截断
+c:\users\reggie\desktop\cpp基础\练习2\练习2.cpp(23): warning C4101: “actor”: 未引用的局部变量
+c:\users\reggie\desktop\cpp基础\练习2\练习2.cpp(24): warning C4101: “chunk”: 未引用的局部变量
+  练习2.vcxproj -> C:\Users\REGGIE\Desktop\Cpp基础\x64\Debug\练习2.exe
+  练习2.vcxproj -> C:\Users\REGGIE\Desktop\Cpp基础\x64\Debug\练习2.pdb (Partial PDB)
