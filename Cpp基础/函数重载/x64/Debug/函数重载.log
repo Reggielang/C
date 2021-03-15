@@ -1,0 +1,4 @@
+﻿  函数重载.cpp
+c:\users\reggie\desktop\cpp基础\函数重载\函数重载.cpp(18): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+  函数重载.vcxproj -> C:\Users\REGGIE\Desktop\Cpp基础\x64\Debug\函数重载.exe
+  函数重载.vcxproj -> C:\Users\REGGIE\Desktop\Cpp基础\x64\Debug\函数重载.pdb (Partial PDB)

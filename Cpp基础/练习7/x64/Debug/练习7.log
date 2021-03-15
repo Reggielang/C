@@ -1,0 +1,4 @@
+﻿  练习7.cpp
+c:\users\reggie\desktop\cpp基础\练习7\med.h(23): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+  练习7.vcxproj -> C:\Users\REGGIE\Desktop\Cpp基础\x64\Debug\练习7.exe
+  练习7.vcxproj -> C:\Users\REGGIE\Desktop\Cpp基础\x64\Debug\练习7.pdb (Partial PDB)
